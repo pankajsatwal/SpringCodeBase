@@ -1,4 +1,4 @@
-package com.sat.SpringTDDAngularJS4.controllers;
+package com.sat.SpringTDDAngularJS4;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
